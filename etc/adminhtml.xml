@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <insoft_core>
+            <children>
+                <insoft_cib translate="title" module="insoft_cib">
+                    <title>Импорт Категорий/Товаров</title>
+                    <sort_order>0</sort_order>
+                    <action>adminhtml/importcategory</action>
+                </insoft_cib>
+            </children>
+        </insoft_core>
+    </menu>
+</config>
